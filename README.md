@@ -5,7 +5,6 @@
 - [Project Description](#Description)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [GitHub](#GitHub)
 - [Contact Me](#ContactMe)
 
 ## Description
